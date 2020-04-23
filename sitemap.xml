@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://praneelrathore.github.io/tags/development/</loc>
+  </url>
+  
+  <url>
+    <loc>http://praneelrathore.github.io/post/firstpost/</loc>
+  </url>
+  
+  <url>
+    <loc>http://praneelrathore.github.io/tags/golang/</loc>
+  </url>
+  
+  <url>
+    <loc>http://praneelrathore.github.io/post/</loc>
+  </url>
+  
+  <url>
     <loc>http://praneelrathore.github.io/</loc>
   </url>
   
