@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Praneel Rathore</title>
-    <link>https://praneelrathore.github.io/series/</link>
+    <link>praneelrathore.github.io/hide-n-seek/series/</link>
     <description>Recent content in Series on Praneel Rathore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://praneelrathore.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="praneelrathore.github.io/hide-n-seek/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
