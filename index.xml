@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Praneel Rathore</title>
-    <link>/</link>
+    <link>https://praneelrathore.github.io/</link>
     <description>Recent content on Praneel Rathore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://praneelrathore.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>/post/firstpost/</link>
+      <link>https://praneelrathore.github.io/post/firstpost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/firstpost/</guid>
+      <guid>https://praneelrathore.github.io/post/firstpost/</guid>
       <description>New Beginnings Whenever I read blog posts over the internet, I always wondered how awesome it would be to have my own. As a software developer, we spend a lot of time learning new things everyday. There are new technologies we might be trying out to fit in our work tech stack, and it all starts from first developing things locally, trying few things on small starter projects, and then taking it to production.</description>
     </item>
     
