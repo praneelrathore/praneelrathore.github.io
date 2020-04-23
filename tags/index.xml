@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Praneel Rathore</title>
-    <link>praneelrathore.github.io/hide-n-seek/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Praneel Rathore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="praneelrathore.github.io/hide-n-seek/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>praneelrathore.github.io/hide-n-seek/tags/development/</link>
+      <link>/tags/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>praneelrathore.github.io/hide-n-seek/tags/development/</guid>
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>praneelrathore.github.io/hide-n-seek/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>praneelrathore.github.io/hide-n-seek/tags/golang/</guid>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     
