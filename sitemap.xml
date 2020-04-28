@@ -3,35 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://praneelrathore.github.io/categories/</loc>
+    <lastmod>2020-04-28T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://praneelrathore.github.io/tags/development/</loc>
+    <lastmod>2020-04-28T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://praneelrathore.github.io/categories/development/</loc>
+    <lastmod>2020-04-28T08:47:11+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://praneelrathore.github.io/post/firstpost/</loc>
+    <lastmod>2020-04-28T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://praneelrathore.github.io/categories/golang/</loc>
+    <lastmod>2020-04-28T08:47:11+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://praneelrathore.github.io/tags/golang/</loc>
+    <lastmod>2020-04-28T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://praneelrathore.github.io/post/second/</loc>
+    <lastmod>2020-04-28T08:47:11+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://praneelrathore.github.io/post/</loc>
+    <lastmod>2020-04-28T08:47:11+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://praneelrathore.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://praneelrathore.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://praneelrathore.github.io/series-desc/</loc>
+    <lastmod>2020-04-28T08:47:11+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://praneelrathore.github.io/tags/</loc>
+    <lastmod>2020-04-28T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://praneelrathore.github.io/about/</loc>
   </url>
   
 </urlset>
