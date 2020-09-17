@@ -6,37 +6,9 @@
     <description>Recent content on Praneel Rathore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2020 08:47:11 +0100</lastBuildDate>
     
 	<atom:link href="https://praneelrathore.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>First Post</title>
-      <link>https://praneelrathore.github.io/post/firstpost/</link>
-      <pubDate>Tue, 28 Apr 2020 08:47:11 +0100</pubDate>
-      
-      <guid>https://praneelrathore.github.io/post/firstpost/</guid>
-      <description>New Beginnings Whenever I read blog posts over the internet, I always wondered how awesome it would be to have my own. As a software developer, we spend a lot of time learning new things everyday. There are new technologies we might be trying out to fit in our work tech stack, and it all starts from first developing things locally, trying few things on small starter projects, and then taking it to production.</description>
-    </item>
-    
-    <item>
-      <title>Hey Tribbiani, get your ass back here</title>
-      <link>https://praneelrathore.github.io/post/second/</link>
-      <pubDate>Tue, 28 Apr 2020 08:47:11 +0100</pubDate>
-      
-      <guid>https://praneelrathore.github.io/post/second/</guid>
-      <description>Something to add today I have not been getting time to work on my hugo blog lately, as things have been a bit hectic at work. Lol, who am I kidding, I am not able to work on it because I have been a lazy ass just sitting and procrastinating about stuff. I got a bit of free time today, so I thought to start work on my blog again. I added &amp;ldquo;About Me&amp;rdquo; page today, and also added my profile picture and links to my github, linkedin and twitter accounts.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://praneelrathore.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://praneelrathore.github.io/about/</guid>
-      <description>About Me Hi, I am Praneel Rathore. I am a software engineer with almost 3 years experience in the industry. I like to explore new technologies and like solving tough problems.My other interests include football and gaming. I am a really big Manchester United fan (following them since 2003, so yeah not the plastic one :P). I love dota 2 and like to play whenever I get time.</description>
-    </item>
     
   </channel>
 </rss>
